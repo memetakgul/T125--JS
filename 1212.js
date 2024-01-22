@@ -19,6 +19,7 @@
         5-function
 */
 
+
 // "typeof operator" : bir variable in data type ini ogrenmek icin kullanilir.
 
 let x;

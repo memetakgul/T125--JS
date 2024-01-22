@@ -22,6 +22,7 @@ Multiple Line Comment
     Isimler rakamla baslayamaz.
 */
 
+
 variableName = 'aasdsaa' ;
 
 // = assign, == equal

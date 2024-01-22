@@ -24,6 +24,7 @@
 */
 
 
+
 //Javascript Variables: Syntax ==> type nameOfVariable = initialValue;
 //In Javascript, It's not mandatory to specify the data type when we creating a variable, It's not a Strongly Typed Language.
 //      nameOfVariable = initialValue;   ==>   isim = 'wise';

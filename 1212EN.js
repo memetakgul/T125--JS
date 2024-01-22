@@ -15,6 +15,7 @@ console.log(typeof check);//boolean
 let y = 'Ahmet';
 console.log(typeof y); //String
 
+
 // 1.Strings
 // You can create a String by putting text between 'single quotes' or "double quotes"
 // If creating a String with 'Single quotes', you can "double quotes" inside it
